@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filter_comments">
+        <item>All comments</item>
+        <item>Newest</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="blue">#0074FB</color>
+    <color name="green_dark">#007F6D</color>
+    <color name="green_light">#B0E4DD</color>
+    <color name="green_normal">#00A991</color>
+    <color name="grey">#4B4848</color>
+    <color name="grey_light">#9E9C9C</color>
+    <color name="red">#F20800</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Received">Received</string>
+    <string name="Search">Search</string>
+    <string name="accept">Accept</string>
+    <string name="admin">Admin</string>
+    <string name="all_report_about_post">All report about post</string>
+    <string name="app_name">Pie</string>
+    <string name="avatar">Avatar</string>
+    <string name="ban_account">Ban account</string>
+    <string name="comment">Comment</string>
+    <string name="content_message">Content message </string>
+    <string name="content_report">Content report</string>
+    <string name="conversation">Conversation</string>
+    <string name="decline">Decline</string>
+    <string name="delete_post">Delete post</string>
+    <string name="do_something">Do something</string>
+    <string name="error_field_required">Email cannot be empty</string>
+    <string name="error_invalid_email">Email invalidate</string>
+    <string name="error_invalid_password">Password must be greater than 8 characters</string>
+    <string name="friend_request">Friend Requests</string>
+    <string name="friend_request_time_at">20:20 25–02-2024</string>
+    <string name="full_name">Johnny Deep</string>
+    <string name="full_name_and_content">AAA BBB CCC</string>
+    <string name="group">Group</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ignore_all_report_of_post">Ignore all report of post</string>
+    <string name="join_group">Join group</string>
+    <string name="like">Like</string>
+    <string name="logout">Logout</string>
+    <string name="make_friend">Make friend</string>
+    <string name="message_sending_at">20:20 25–02-2024</string>
+    <string name="mode_name">Public</string>
+    <string name="name_group">Group: AAA</string>
+    <string name="notify_3days_ago">3 days ago</string>
+    <string name="notify_7days_ago">7 days ago</string>
+    <string name="notify_time">Time</string>
+    <string name="notify_today">Today</string>
+    <string name="policy">Policy</string>
+    <string name="post_text">Hôm nay trời đẹp quá</string>
+    <string name="posting_time_at">20:20 25–02-2024</string>
+    <string name="process_report">Process report</string>
+    <string name="profile">Profile</string>
+    <string name="report_port">Report this post as spam</string>
+    <string name="report_time_at">Report time at</string>
+    <string name="seen">Seen</string>
+    <string name="send_message">Message</string>
+    <string name="setting_function_name">Function name</string>
+    <string name="share">Share</string>
+    <string name="type_message">Type message</string>
+    <string name="view_group">View group</string>
+    <string name="view_post">View Post</string>
+    <string name="view_profile">Profile</string>
+    <string name="what_are_you_thinking">What are you thinking?</string>
+    <string name="you">You</string>
+    <string name="your_friend">Your friend</string>
+    <style name="CustomTabMain">
+        <item name="android:textSize">10sp</item>
+    </style>
+    <style name="DatePickerTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:background">@color/green_dark</item>
+        <item name="colorAccent">#71B38F</item>
+    </style>
+    <style name="Theme.MobileAndroidJavaSocialMedia" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green_dark</item>
+        <item name="buttonStyle">@drawable/custom_button</item>
+
+        <item name="android:textColor">@color/black</item>
+        <item name="android:itemBackground">@color/white</item>
+    </style>
+    <style name="notify_content">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+    <style name="notify_fullname">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

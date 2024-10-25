@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\layout_item_policy_group.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\layout_item_policy_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_search.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\layout_item_policy_detail.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\layout_item_policy_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_create_new_password.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_create_new_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\fragment_friend.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\fragment_friend.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\comment_card_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\comment_card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_profile_group.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_profile_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\custom_spinner_items.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\custom_spinner_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\friend_search_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\friend_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\post_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\post_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_accept_member_in_group.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_accept_member_in_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\profile_group_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\profile_group_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\post_group_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\post_group_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_view_profile.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_view_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\group_search_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\group_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\group_card_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\group_card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_share_post.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_share_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_admin_process_report.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_admin_process_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_admin.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\edit_profile_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\edit_profile_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\you_message_card_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\you_message_card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\report_post_1_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\report_post_1_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_set_avatar.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_set_avatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_your_personal_page.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_your_personal_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\group_private_search_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\group_private_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_view_profile_group.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_view_profile_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\my_personal_page_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\my_personal_page_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\notify_with_time_card.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\notify_with_time_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_find_account.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_find_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_message.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_forget_account.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_forget_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_group.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_policy_details.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_policy_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\you_message_media_card_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\you_message_media_card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\waiting_loading_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\waiting_loading_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\conversation_card_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\conversation_card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_admin_view_report_post.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_admin_view_report_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\report_post_2_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\report_post_2_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_edit_profile_group.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_edit_profile_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_policies.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_policies.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\accept_member_in_group_card_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\accept_member_in_group_card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_my_personal_page.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_my_personal_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\share_post_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\share_post_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\fragment_notify.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\fragment_notify.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\ban_account_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\ban_account_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\friend_message_media_card_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\friend_message_media_card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\fragment_setting.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\group_public_search_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\group_public_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_verify_new_account.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_verify_new_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\friend_message_card_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\friend_message_card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_reset_password.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\notify_card_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\notify_card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_comment.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_see_all_friend.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_see_all_friend.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_verify_old_account.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_verify_old_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\setting_card_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\setting_card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\your_friend_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\your_friend_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\your_personal_page_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\your_personal_page_view.xml"
+    },
+    {
+        "merged": "HCMUTE.SocialMedia.app-mergeDebugResources-37:/layout/conversation_card_view.xml",
+        "source": "HCMUTE.SocialMedia.app-main-40:/layout/conversation_card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_edit_profile.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_conversation.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_conversation.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_create_post.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_create_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_create_group.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_create_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_admin_ban_account.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_admin_ban_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\activity_change_password.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\your_friend_vertical_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\your_friend_vertical_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-mergeDebugResources-37:\\layout\\friend_request_view.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.2\\HCMUTE.SocialMedia.app-main-40:\\layout\\friend_request_view.xml"
+    }
+]

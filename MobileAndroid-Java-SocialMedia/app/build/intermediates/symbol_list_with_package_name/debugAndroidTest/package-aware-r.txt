@@ -1,0 +1,3 @@
+HCMUTE.SocialMedia.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
